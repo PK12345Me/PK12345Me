@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on this project
 - 📫 How to reach me pandey.kislay@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love reading sci-fi novels!
+- ⚡ Fun fact: I love Geckos!
 
 <!---
 PK12345Me/PK12345Me is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

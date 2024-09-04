@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kislay
-- 👀 I’m interested in understanding how human psychology shapes intelligent design
-- 🌱 I’m currently learning how individuals collaborate with each other
-- 💞️ I’m looking to collaborate on this project
+- 👀 I’m interested in understanding how human psychology shapes intelligent design and vice-versa
+- 🌱 I’m currently learning how individuals collaborate and connect with each other
+- 💞️ I’m always open to collaborate over the projects im working on
 - 📫 How to reach me pandey.kislay@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love Geckos!

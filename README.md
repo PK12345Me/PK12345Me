@@ -4,7 +4,7 @@
 - 💞️ I’m always open to collaborate over the projects im working on
 - 📫 How to reach me pandey.kislay@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love Geckos!
+- ⚡ Fun fact: I love Geckos and Swift!
 
 <!---
 PK12345Me/PK12345Me is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

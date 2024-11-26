@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Kislay
-- 👀 I’m interested in understanding how human psychology shapes intelligent design and vice-versa
-- 🌱 I’m currently learning how individuals collaborate and connect with each other
-- 💞️ I’m always open to collaborate over the projects im working on
+- 👋 Hi, I’m Kislay
+- 👀 I’m currently building a social gaming platform with the intent to disrupt nintendo and create new avenues for indie game devs and players both
 - 📫 How to reach me pandey.kislay@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love Geckos and Swift!
+- ⚡ Fun fact: I love Geckos and Swift and have platinumed God of War: Ragnarok and omw to do the same with elden ring!
 
 <!---
 PK12345Me/PK12345Me is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

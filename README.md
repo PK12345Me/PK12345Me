@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kislay
 - 👀 I’m currently building a social gaming platform with the intent to disrupt nintendo and create new avenues for indie game devs and players both
-- 📫 How to reach me pandey.kislay@gmail.com
+- 📫 How to reach me pandeygunner@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love Geckos and Swift and have platinumed God of War: Ragnarok and omw to do the same with elden ring!
 
